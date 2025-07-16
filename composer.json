@@ -9,6 +9,9 @@
         "source": "https://github.com/codeigniter4/CodeIgniter4",
         "slack": "https://codeigniterchat.slack.com"
     },
+
+    This is testing updating from Shathi PC
+    Just to check
     "require": {
         "php": "^8.1",
         "ext-intl": "*",
